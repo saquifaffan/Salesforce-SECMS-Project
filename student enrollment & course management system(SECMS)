@@ -1,0 +1,13 @@
+# Student Enrollment & Course Management System (SECMS)
+
+## Overview
+A Salesforce Administrator project designed for managing student enrollments, courses, instructors, approval processes, custom reports, and security configurations.
+
+## Features Implemented
+- **Custom Objects & Fields:** Students, Courses, Instructors, Enrollments.
+- **Automation:** Record Types (Undergraduate & Postgraduate) & Approval Processes.
+- **Security:** Profiles, Permission Sets, and Organization-Wide Defaults (OWD).
+- **Analytics:** Custom Reports & SECMS Overview Dashboard.
+
+## Project Tracking
+- Managed and completed on [SkillWallet](https://myskillwallet.ai).
